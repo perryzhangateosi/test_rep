@@ -2,7 +2,7 @@
 name: Feature request(业务需求)
 about: Suggest an idea for this project
 title: "[Feature request]"
-labels: enhancement
+labels: request
 assignees: perryzhangateosi
 
 ---
